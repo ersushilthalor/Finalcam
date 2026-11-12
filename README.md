@@ -1,3 +1,3 @@
 # Finalcam
 
-Android camera application source imported from PhotonCamera.
+Android camera application project.
